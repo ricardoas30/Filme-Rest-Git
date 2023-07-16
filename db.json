@@ -18,6 +18,111 @@
         ],
         "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1686676026/filme/babilonia_f7ette.webp",
         "id": 1
+      },
+      {
+        "id": 2,
+        "titulo": "velozes e furiosos 10",
+        "assistido": false,
+        "ano": "2023",
+        "genero": [
+          "Ação",
+          "Policial"
+        ],
+        "classificacao": 12,
+        "sinopse": "Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família e a destruir tudo – e todos – que Dom mais ama.",
+        "pais": [
+          "EUA"
+        ],
+        "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1686676018/filme/velozes_furiosos_cn80ay.jpg",
+        "createdAt": "Jun 14, 2023, 11:10:00 AM"
+      },
+      {
+        "createdAt": "Jun 14, 2023, 11:10:00 AM",
+        "updatedAt": "Jun 21, 2023, 4:54:58 PM",
+        "titulo": "A Mãe",
+        "ano": "2023",
+        "classificacao": 18,
+        "assistido": true,
+        "sinopse": "Uma assassina perigosa teve que abandonar a filha para fugir dos inimigos. Agora, anos depois, ela precisa sair do esconderijo se quiser proteger a menina.",
+        "genero": [
+          "Ação",
+          "Suspense"
+        ],
+        "pais": [
+          "EUA"
+        ],
+        "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1686676094/filme/a_mae_lqusq6.jpg",
+        "id": 3
+      },
+      {
+        "id": 4,
+        "titulo": "avatar II",
+        "assistido": true,
+        "ano": "2022",
+        "genero": [
+          "Ficção"
+        ],
+        "classificacao": 0,
+        "sinopse": "12 anos depois de explorar Pandora e se juntar aos Navi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.",
+        "pais": [
+          "EUA"
+        ],
+        "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1686676077/filme/avatar.jpg_qtjqek.webp",
+        "createdAt": "Jun 14, 2023, 11:10:00 AM"
+      },
+      {
+        "createdAt": "Jun 14, 2023, 11:10:00 AM",
+        "updatedAt": "6/24/23, 12:32 AM",
+        "titulo": "transformers parte 2",
+        "ano": "2023",
+        "classificacao": 0,
+        "assistido": false,
+        "sinopse": "Durante os anos 90, uma nova facção de Transformers – os Maximals – junta-se aos Autobots como aliados na batalha pela Terra.",
+        "genero": [
+          "Ação",
+          "Ficção"
+        ],
+        "pais": [
+          "EUA"
+        ],
+        "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1687022010/filme/Transformers-O-Despertar-das-Feras_hnu16q.jpg",
+        "id": 7
+      },
+      {
+        "createdAt": "Jun 14, 2023, 11:10:00 AM",
+        "updatedAt": "Jun 21, 2023, 7:48:59 PM",
+        "titulo": "Resgate 2",
+        "ano": "2023",
+        "classificacao": 16,
+        "assistido": false,
+        "sinopse": "Depois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.",
+        "genero": [
+          "Ação",
+          "Suspense"
+        ],
+        "pais": [
+          "EUA"
+        ],
+        "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1687043600/filme/Resgate-2_v0mtu1.jpg",
+        "id": 8
+      },
+      {
+        "createdAt": "6/24/23, 12:50 AM",
+        "updatedAt": "6/24/23, 12:52 AM",
+        "titulo": "Titanic",
+        "ano": "1997",
+        "classificacao": 12,
+        "assistido": false,
+        "sinopse": "Uma aristocrata de dezessete anos se apaixona por um artista gentil mas pobre a bordo do luxuoso e desafortunado Titanic.",
+        "genero": [
+          "Drama",
+          "Romance"
+        ],
+        "pais": [
+          "EUA"
+        ],
+        "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1688130916/Titanic-300x450_tu6hzl.jpg",
+        "id": 11
       }
     ],
     "classificacao": [
