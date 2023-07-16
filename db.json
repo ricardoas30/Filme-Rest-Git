@@ -1,0 +1,127 @@
+{
+    "filmes": [
+      {
+        "createdAt": "Jun 14, 2023, 11:10:00 AM",
+        "updatedAt": "Jun 21, 2023, 4:42:53 PM",
+        "titulo": "babilonia",
+        "ano": "2022",
+        "classificacao": 18,
+        "assistido": true,
+        "sinopse": "Um conto de ambições exageradas e excessos escandalosos, traçando a ascensão e queda de múltiplos personagens durante uma era de desenfreada decadência e depravação no início de Hollywood.",
+        "genero": [
+          "Drama",
+          "Terror"
+        ],
+        "pais": [
+          "EUA",
+          "Reino Unido"
+        ],
+        "img": "https://res.cloudinary.com/du7q7wpps/image/upload/v1686676026/filme/babilonia_f7ette.webp",
+        "id": 1
+      }
+    ],
+    "classificacao": [
+      {
+        "id": 0,
+        "descricao": "Livre",
+        "imagemUrl": "assets/images/classificacao/livre-anos.png"
+      },
+      {
+        "id": 10,
+        "descricao": "10 anos",
+        "imagemUrl": "assets/images/classificacao/10-anos.png"
+      },
+      {
+        "id": 12,
+        "descricao": "12 anos",
+        "imagemUrl": "assets/images/classificacao/12-anos.png"
+      },
+      {
+        "id": 14,
+        "descricao": "14 anos",
+        "imagemUrl": "assets/images/classificacao/14-anos.png"
+      },
+      {
+        "id": 16,
+        "descricao": "16 anos",
+        "imagemUrl": "assets/images/classificacao/16-anos.png"
+      },
+      {
+        "id": 18,
+        "descricao": "18 anos",
+        "imagemUrl": "assets/images/classificacao/18-anos.png"
+      }
+    ],
+    "genero": [
+      {
+        "id": "Ação",
+        "descricao": "Ação"
+      },
+      {
+        "id": "Aventura",
+        "descricao": "Aventura"
+      },
+      {
+        "id": "Suspense",
+        "descricao": "Suspense"
+      },
+      {
+        "id": "Ficção",
+        "descricao": "Ficção"
+      },
+      {
+        "id": "Terror",
+        "descricao": "Terror"
+      },
+      {
+        "id": "Comédia",
+        "descricao": "Comédia"
+      },
+      {
+        "id": "Romance",
+        "descricao": "Romance"
+      },
+      {
+        "id": "Série",
+        "descricao": "Série"
+      },
+      {
+        "id": "Documentário",
+        "descricao": "Documentário"
+      },
+      {
+        "id": "Drama",
+        "descricao": "Drama"
+      }
+    ],
+    "pais": [
+      {
+        "id": "EUA",
+        "descricao": "Estados Unidos"
+      },
+      {
+        "id": "Reino Unido",
+        "descricao": "Reino Unido"
+      },
+      {
+        "id": "França",
+        "descricao": "França"
+      },
+      {
+        "id": "Itália",
+        "descricao": "Itália"
+      },
+      {
+        "id": "Brasil",
+        "descricao": "Brasil"
+      },
+      {
+        "id": "Índia",
+        "descricao": "Índia"
+      },
+      {
+        "id": "Espanha",
+        "descricao": "Espanha"
+      }
+    ]
+  }
